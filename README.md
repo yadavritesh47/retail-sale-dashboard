@@ -24,7 +24,7 @@ The dashboard covers:
 
  Page 1: KPI Analysis, Trend & Segment Insights
 
-![Retail Dashboard Overview](project2_!.png)
+![Retail Dashboard Overview](project2_1.png)
 
 ---
 
